@@ -3,9 +3,7 @@
 ## Introduction
 
 In this project, there is a simple analysis of data related to sleep.
-The purpose is to calculate sleep score using various sleep
-attributes and then categorize the results according to mental
-health status.
+The purpose is to calculate sleep score using various sleep attributes and then categorize the results according to mental health status.
 
 ## Sleep Attributes Used
 
@@ -19,12 +17,9 @@ The sleep attributes used in this project include:
 
 ## Methodology
 
-In this project, the values of sleep attributes are taken as inputs,
-then a score is calculated considering sleep duration, REM sleep,
-core sleep, and deep sleep.
+In this project, the values of sleep attributes are taken as inputs, then a score is calculated considering sleep duration, REM sleep, core sleep, and deep sleep.
 
-Using the obtained sleep score, the results can be classified into
-three categories, which include:
+Using the obtained sleep score, the results can be classified into three categories, which include:
 
 - Good
 - Moderate
@@ -58,5 +53,4 @@ The category is:
 
 ## Files
 
-The file `Sleep_health_analysis.ipynb` contains the code and output of
-the project.
+The file `Sleep_health_analysis.ipynb` contains the code and output of the project.
